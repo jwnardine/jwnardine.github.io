@@ -10,6 +10,8 @@ _This is Jon Nardine's first attempt at making a website, using principles learn
 
 ## Setup
 
+GH-Pages Link: https://jwnardine.github.io/
+
 _Please visit this website:_
 
 https://github.com/jwnardine/MyFirstWebpage
